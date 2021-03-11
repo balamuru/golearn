@@ -1,2 +1,2 @@
 # golearn
-go playground
+golang playground
