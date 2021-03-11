@@ -15,7 +15,7 @@ import (
 
 func main() {
 
-	a, b := multi.Vals()
+	a, b := multi.Vals
 	fmt.Println(a)
 	fmt.Println(b)
 
