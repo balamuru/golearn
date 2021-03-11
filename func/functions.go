@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/balamuru/golearn/multi"
+	"github.com/balamuru/golearn/func/multi"
 
 )
 
