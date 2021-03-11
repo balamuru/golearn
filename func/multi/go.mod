@@ -1,3 +1,3 @@
-module github.com/balamuru/golearn/func/multi
+module multireturn.go
 
 go 1.16

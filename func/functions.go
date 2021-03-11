@@ -15,10 +15,10 @@ import (
 
 func main() {
 
-	a, b := multi.vals()
+	a, b := multi.Vals()
 	fmt.Println(a)
 	fmt.Println(b)
 
-	_, c := multi.vals()
+	_, c := multi.Vals()
 	fmt.Println(c)
 }

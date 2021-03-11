@@ -1,6 +1,7 @@
 package multi
 
-func vals() (int, int) {
+// import "fmt"
+
+func Vals() (int, int) {
 	return 3, 7
 }
-	
